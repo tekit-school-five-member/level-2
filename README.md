@@ -64,6 +64,8 @@ git checkout -b feature/<yourName>
 elem.className += " hold";
 ```
 
+<br>
+
 - [ ] <code>fill</code>엘리먼트 클래스를 <code>invisible</code>로 변경 (hint: setimeout 함수의 비동기 처리 기능 사용)
 
 <br>
@@ -74,10 +76,14 @@ elem.className += " hold";
 parentElem.appendChild(elem);
 ```
 
+<br>
+
 - [ ] 마우스가 호버되는 <code>empty</code>엘리먼트에 hovered 클래스 추가
 
 ```
  this.className += " hovered";
 ```
+
+<br>
 
 - [ ] 마우스가 호버가 끝나면 <code>empty</code>엘리먼트에 hovered 클래스 제거
