@@ -20,15 +20,15 @@
 git clone https://github.com/tekit-school-five-member/level-2.git ./
 ```
 
-<br>
+<br> <br>
 
 2. 본인 이름의 branch 생성
 
-<br>
+<br> <br>
 
 &nbsp;&nbsp;&nbsp;&nbsp;branches 클릭 
 
-<br> <br>
+<br>
 
 &nbsp;&nbsp;&nbsp;&nbsp;<img width="600px" src="https://github.com/tekit-school-five-member/level-2/assets/60402888/05e2709f-74f6-4ae6-a170-0b996ec7a0cc" />
 
