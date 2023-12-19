@@ -17,7 +17,7 @@
 1. clone level-1 repository
 
 ```
-git clone https://github.com/tekit-school-five-member/level-2.git
+git clone https://github.com/tekit-school-five-member/level-2.git ./
 ```
 
 <br>
