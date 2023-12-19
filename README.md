@@ -14,7 +14,7 @@
 
 ## 프로젝트 시작 방법!!
 
-1. clone level-1 repository
+### 1. clone level-1 repository
 
 ```
 git clone https://github.com/tekit-school-five-member/level-2.git ./
@@ -22,7 +22,7 @@ git clone https://github.com/tekit-school-five-member/level-2.git ./
 
 <br> <br>
 
-2. 본인 이름의 branch 생성
+### 2. 본인 이름의 branch 생성
 
 <br> 
 
@@ -42,7 +42,7 @@ git clone https://github.com/tekit-school-five-member/level-2.git ./
 <br> <br>
 
 
-3. Organization 레퍼지토리 포크 하기
+### 3. Organization 레퍼지토리 포크 하기
 
 <br>
 
@@ -58,7 +58,7 @@ git clone <your repository clone address> ./
 
 <br> <br>
 
-4. PR 날리기
+### 4. PR 날리기
 
 <br>
 
