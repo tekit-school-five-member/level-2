@@ -7,5 +7,10 @@
  * 5. 마우스가 호버가 끝나면 empty엘리먼트에 hovered 클래스 제거
  */
 
-// test
-//test2
+const draggableElement = document.querySelector('.fill');
+
+function mouseDownHandler() {}
+
+draggableElement.addEventListener('mousedown', mouseDownHandler);
+draggableElement.addEventListener('mousemove', mouseMoveHandler);
+draggableElement.addEventListener('mouseup', mouseUpHandler);
