@@ -1,4 +1,4 @@
-![image](https://github.com/tekit-school-five-member/level-2/assets/60402888/cab5cb8f-efe7-499c-9b63-1440dbeda550)# level-2
+# level 2
 
 프론트엔드스쿨 5조 level 2
 
