@@ -26,17 +26,17 @@ git clone https://github.com/tekit-school-five-member/level-2.git ./
 
 <br> 
 
-&nbsp;&nbsp;&nbsp;&nbsp;branches 클릭 
+&nbsp;&nbsp;&nbsp;&nbsp;branches 클릭 <br>
 &nbsp;&nbsp;&nbsp;&nbsp;<img width="600px" src="https://github.com/tekit-school-five-member/level-2/assets/60402888/05e2709f-74f6-4ae6-a170-0b996ec7a0cc" />
 
 <br>
 
-&nbsp;&nbsp;&nbsp;&nbsp;new branch 클릭 
+&nbsp;&nbsp;&nbsp;&nbsp;new branch 클릭 <br>
 &nbsp;&nbsp;&nbsp;&nbsp;<img width="600px" src="https://github.com/tekit-school-five-member/level-2/assets/60402888/541daf5c-83f8-4c69-b0b0-6d1b306c33f9" />
 
 <br>
 
-&nbsp;&nbsp;&nbsp;&nbsp;브랜치명에 본인 이름 넣고 create new branch 
+&nbsp;&nbsp;&nbsp;&nbsp;브랜치명에 본인 이름 넣고 create new branch <br>
 &nbsp;&nbsp;&nbsp;&nbsp;<img width="600px" src="https://github.com/tekit-school-five-member/level-2/assets/60402888/43744ee9-6fbd-4f0d-89fa-0e82bbbe5833" />
 
 <br> <br>
@@ -46,7 +46,7 @@ git clone https://github.com/tekit-school-five-member/level-2.git ./
 
 <br>
 
-&nbsp;&nbsp;&nbsp;&nbsp;본인의 포크한 레퍼지토리에 가서 clone 주소 복사
+&nbsp;&nbsp;&nbsp;&nbsp;본인의 포크한 레퍼지토리에 가서 clone 주소 복사 <br>
 &nbsp;&nbsp;&nbsp;&nbsp;<img width="600px" src="https://github.com/tekit-school-five-member/level-2/assets/60402888/eb640901-5731-49d4-8dd8-941d02c6ac9f"/>
 
 <br>
@@ -69,17 +69,17 @@ git push -u origin <branch name>
 
 <br>
 
-&nbsp;&nbsp;&nbsp;&nbsp;Contribute → Open pull request
+&nbsp;&nbsp;&nbsp;&nbsp;Contribute → Open pull request <br>
 &nbsp;&nbsp;&nbsp;&nbsp;<img width="600px" src="https://github.com/tekit-school-five-member/level-2/assets/60402888/7a68414f-a103-44eb-802f-7f42b5feeacd"/>
 
 <br>
 
-&nbsp;&nbsp;&nbsp;&nbsp;base와 compare 브랜치 잘 확인 후 pull request 생성하기 (base: **본인 이름 브랜치** ← compare: **본인이 패치하고싶은 브랜치**)
+&nbsp;&nbsp;&nbsp;&nbsp;base와 compare 브랜치 잘 확인 후 pull request 생성하기 (base: **본인 이름 브랜치** ← compare: **본인이 패치하고싶은 브랜치**) <br>
 &nbsp;&nbsp;&nbsp;&nbsp;<img width="600px" src="https://github.com/tekit-school-five-member/level-2/assets/60402888/7c24f71d-1360-41fb-8a51-e50629550e9c"/>
 
 <br>
 
-&nbsp;&nbsp;&nbsp;&nbsp;pull request 작성시 아래 이미지를 참고해주세요. <br> <br>
+&nbsp;&nbsp;&nbsp;&nbsp;pull request 작성시 아래 이미지를 참고해주세요. <br>
 &nbsp;&nbsp;&nbsp;&nbsp;<img width="600px" src="https://github.com/tekit-school-five-member/level-3/assets/60402888/270e9372-7b61-42db-9045-0f58ce6c3408"/>
 
 <br>
