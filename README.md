@@ -25,15 +25,27 @@ git clone https://github.com/tekit-school-five-member/level-2.git ./
 2. 본인 이름의 branch 생성
 
 <br>
-&nbsp;&nbsp;&nbsp;&nbsp;branches 클릭 <br> <br>
+
+&nbsp;&nbsp;&nbsp;&nbsp;branches 클릭 
+
+<br> <br>
+
 &nbsp;&nbsp;&nbsp;&nbsp;<img width="600px" src="https://github.com/tekit-school-five-member/level-2/assets/60402888/05e2709f-74f6-4ae6-a170-0b996ec7a0cc" />
 
-<br>
-&nbsp;&nbsp;&nbsp;&nbsp;new branch 클릭 <br> <br>
-&nbsp;&nbsp;&nbsp;&nbsp;<img width="600px" src="https://github.com/tekit-school-five-member/level-2/assets/60402888/541daf5c-83f8-4c69-b0b0-6d1b306c33f9" />
+<br> <br>
+
+&nbsp;&nbsp;&nbsp;&nbsp;new branch 클릭 
 
 <br>
-&nbsp;&nbsp;&nbsp;&nbsp;브랜치명에 본인 이름 넣고 create new branch <br> <br>
+
+&nbsp;&nbsp;&nbsp;&nbsp;<img width="600px" src="https://github.com/tekit-school-five-member/level-2/assets/60402888/541daf5c-83f8-4c69-b0b0-6d1b306c33f9" />
+
+<br> <br>
+
+&nbsp;&nbsp;&nbsp;&nbsp;브랜치명에 본인 이름 넣고 create new branch 
+
+<br>
+
 &nbsp;&nbsp;&nbsp;&nbsp;<img width="600px" src="https://github.com/tekit-school-five-member/level-2/assets/60402888/43744ee9-6fbd-4f0d-89fa-0e82bbbe5833" />
 
 <br>
